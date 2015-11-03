@@ -1,7 +1,6 @@
-# codechallengetips
-Tips for code challenges
+# Tips for code challenges
 
-Here is my keynote as a html document.
+In 2015 some folks got together to discuss coding challenges for lateral hires with no CS background. This repository includes my keynote as a html document and below are some of the main tips/outcomes. Feel free to fork and add your own :)
 
 Some categories considered by people reviewing code assignments:
 * Operational-ness
@@ -47,7 +46,7 @@ Tips:
 * Have a friend or coach review the assignment
 * Focus on readability
 * Follow the instructions
-* Call
+* Call the recruiter (a conversation can be much easier than email)
 * If in person - explain what you are doing and your thoughts; don’t stop talking
 * Can ask interviewer questions, e.g., “how would you approach this problem?”
 * remember: interviewers are people too
