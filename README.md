@@ -1,6 +1,6 @@
 # Tips for code challenges
 
-In 2015 some folks got together to discuss coding challenges for lateral hires with no CS background. This repository includes my keynote as a html document and below are some of the main tips/outcomes. Feel free to fork and add your own :)
+In 2015 some folks got together to discuss coding challenges for lateral hires with no CS background. This repository includes the presentation as a html document and below are some of the main tips/outcomes. Feel free to fork and add your own :)
 
 Some categories considered by people reviewing code assignments:
 * Operational-ness
