@@ -1,6 +1,19 @@
 # Tips for code challenges
 
-In 2015 some folks got together to discuss coding challenges for lateral hires with no CS background. This repository includes the presentation as a html document and below are some of the main tips/outcomes. Feel free to fork and add your own :)
+In 2015 some folks (around 30, mostly women*) got together in Berlin to discuss coding challenges for lateral hires with no CS background. This repository includes the presentation as an html presentation and below are some of the main tips/outcomes. Feel free to fork and add your own :)
+
+# How to open the presentation
+
+Clone this repository on your local computer and run a simple https server, e.g.:
+```
+git clone git@github.com:laurawadden/codechallengetips.git
+cd codechallengetips
+python -m SimpleHTTPServer 8888
+```
+
+Navigate to your browser and go to `localhost:8888` (or whichever port you chose).
+
+# Summary & results from the discussion
 
 Some categories considered by people reviewing code assignments:
 * Operational-ness
