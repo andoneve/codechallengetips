@@ -4,7 +4,7 @@ In 2015 some folks (around 30, mostly women*) got together in Berlin to discuss 
 
 # How to open the presentation
 
-Clone this repository on your local computer and run a simple https server, e.g.:
+Clone this repository on your local computer and run a simple http server, e.g.:
 ```
 git clone git@github.com:laurawadden/codechallengetips.git
 cd codechallengetips
